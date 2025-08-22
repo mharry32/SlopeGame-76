@@ -38,6 +38,7 @@ return false;
 }
 
 function insertBacklinks() {
+return false;
 if (inFrame()) {
   return false;
 }

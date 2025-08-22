@@ -18,6 +18,6 @@ function loadJS(FILE_URL, async = true) {
   });
 }
 
-window.addEventListener("load", function () {
-  loadJS("https://www.ubg235.com/js/ubg235_server_v1_0.js", true);
-});
+// window.addEventListener("load", function () {
+//   loadJS("https://www.ubg235.com/js/ubg235_server_v1_0.js", true);
+// });
